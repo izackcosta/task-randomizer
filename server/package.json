@@ -13,8 +13,8 @@
     "typescript": "^5.9.3"
   },
   "scripts": {
-    "start": "node .src/server.ts",
-    "start:dev": "nodemon .src/server.ts"
+    "start": "node ./src/server.mts",
+    "start:dev": "nodemon ./src/server.mts"
   },
   "type": "module"
 }
